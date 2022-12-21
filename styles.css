@@ -20,11 +20,27 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1ch;
+}
+
+#html-section {
+    border: 1px black;
 }
 
 #bottom {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: blue;
+    color: aliceblue;
+}
+
+#bottom p {
+    font-size: 25px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#bottom a {
+   text-decoration: none; 
+   color: aliceblue;
 }
