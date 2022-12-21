@@ -1,0 +1,30 @@
+#top {
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+}
+
+#top img{
+    width: 50px;
+    padding-bottom: 10px;
+}
+
+#top h1 {
+    margin-bottom: 0%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1ch;
+}
+
+#bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
