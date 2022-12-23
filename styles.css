@@ -1,3 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
 #top {
     display: flex;
     background-color: blue;
@@ -17,13 +23,14 @@
 }
 
 .card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
 }
 
-#html-section {
-    border: 1px black;
+.card h2 {
+    text-align: center;
 }
 
 #bottom {
