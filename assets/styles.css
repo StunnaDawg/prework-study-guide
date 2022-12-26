@@ -39,6 +39,7 @@ body {
     align-items: center;
     background-color: blue;
     color: aliceblue;
+    padding: 15px;
 }
 
 #bottom p {
