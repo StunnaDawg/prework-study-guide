@@ -23,6 +23,6 @@ N/A
 
 ## License
 
-MIT license
+Please refer to the LICENSE in the repo.
 ---
 
