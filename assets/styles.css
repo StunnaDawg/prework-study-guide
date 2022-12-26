@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#top {
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+}
+
+#top img{
+    width: 50px;
+    padding-bottom: 10px;
+}
+
+#top h1 {
+    margin-bottom: 0%;
+}
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
+}
+
+.card h2 {
+    text-align: center;
+}
+
+#bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: blue;
+    color: aliceblue;
+}
+
+#bottom p {
+    font-size: 25px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#bottom a {
+   text-decoration: none; 
+   color: aliceblue;
+}
